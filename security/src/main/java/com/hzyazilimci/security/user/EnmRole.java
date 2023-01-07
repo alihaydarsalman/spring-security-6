@@ -4,7 +4,7 @@ package com.hzyazilimci.security.user;
  * @author hzyazilimci
  */
 
-public enum Role {
+public enum EnmRole {
 
     USER,
     ADMIN
